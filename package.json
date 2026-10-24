@@ -1,0 +1,25 @@
+{
+  "name": "ch-be-2-94925",
+  "version": "1.0.0",
+  "description": "Curso de backend 2 de CoderHouse",
+  "homepage": "https://github.com/NicolasOriti/ch-be-2-94925#readme",
+  "bugs": {
+    "url": "https://github.com/NicolasOriti/ch-be-2-94925/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasOriti/ch-be-2-94925.git"
+  },
+  "license": "ISC",
+  "author": "Nicolas Oriti, Martin Alberti",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.4"
+  }
+}
